@@ -12,12 +12,12 @@ In this tutorial, we will learn how to:
 ## **Tasks**
 To achieve the objectives above, we will need perform the following tasks:
 
-- [**Section 1: Preamble**](#preamble) - download tutorial materials and set path to working folder.
+- **Section 1: Preamble** - download tutorial materials and set path to working folder.
 
-- [**Section 2: Emotion Dataset Analysis**](#dataset-analysis) - load and analyse example emotion dataset.
+- **Section 2: Emotion Dataset Analysis** - load and analyse example emotion dataset.
 
-- [**Section 3: Emotion Classification**](#classification) - perform emotion classification with existing models.
+- **Section 3: Emotion Classification** - perform emotion classification with existing models.
 
-- [**Section 4: Model Evaluation**](#evaluation) - evaluate model performances on the dataset.
+- **Section 4: Model Evaluation** - evaluate model performances on the dataset.
 
-- [**Section 5: Guide to Model Fine-tuning**](#fine-tuning) - a quick guide to fine-tuning an emotion LLM.
+- **Section 5: Guide to Model Fine-tuning** - a quick guide to fine-tuning an emotion LLM.
